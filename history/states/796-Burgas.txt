@@ -1,0 +1,27 @@
+state={
+	id=796
+	name="STATE_796"
+	manpower = 762847
+
+
+	state_category = town
+
+	history={
+		owner = ERM
+		victory_points = {
+			9902 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			9902 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = ERM
+	}
+
+	provinces={
+		6967 9888 9902 9919
+	}
+}

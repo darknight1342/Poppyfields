@@ -1,0 +1,19 @@
+state = {
+	id=791
+	name="STATE_791"
+	manpower = 812672
+	
+	state_category = rural
+	
+	history={
+		owner = GRE
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = TUR
+	}
+	provinces= {
+		6912 9887 6864 9799 11848
+	}
+}

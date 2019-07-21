@@ -1,0 +1,30 @@
+﻿l_english:
+#German Togoland
+TOG_GER_subject:0 "Togoland"
+TOG_GER_subject_DEF:0 "Schutzgebiet Togo"
+TOG_GER_subject_ADJ:0 "Deutsch Togolese"
+
+#German Cameroon
+CMR_GER_subject:0 "Kamerun"
+CMR_GER_subject_DEF:0 "Deutsch Kamerun"
+CMR_GER_subject_ADJ:0 "Deutsch Kamerunian"
+
+#German Namibia
+NMB_GER_subject:0 "Deutsch-Südwestafrika"
+NMB_GER_subject_DEF:0 "Deutsch-Südwestafrika"
+NMB_GER_subject_ADJ:0 "Deutsch-Südwestafrikaneer"
+
+#German Tanganyika
+TZN_GER_subject:0 "Deutsch-Ostafrika"
+TZN_GER_subject_DEF:0 "Deutsch-Ostafrika"
+TZN_GER_subject_ADJ:0 "Deutsch-Ostafrikaneer"
+
+#German Ceylon
+SRL_GER_subject:0 "Deutsch-Ceylon"
+SRL_GER_subject_DEF:0 "Deutsch-Ceylon"
+SRL_GER_subject_ADJ:0 "Deutsch-Ceylonese"
+
+#German Congo
+COG_GER_subject:0 "Deutsch-Mittelafrika"
+COG_GER_subject_DEF:0 "Deutsch-Mittelafrika"
+COG_GER_subject_ADJ:0 "Deutsch-Mittelafrikaneer"

@@ -1,0 +1,19 @@
+state = {
+	id=789
+	name="STATE_789"
+	manpower = 124441
+	
+	state_category = rural
+	
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+		}
+		add_core_of = YEM
+	}
+	provinces= {
+		13220
+	}
+}

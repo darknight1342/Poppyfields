@@ -1,0 +1,27 @@
+
+state={
+	id=802
+	name="STATE_802"
+	manpower = 1387917
+	
+	state_category = city
+
+	history={
+		owner = TSI
+		victory_points = {
+			925 1 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			6831 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = TSI
+	}
+
+	provinces={
+		963 3910 3923 3966 6831 9838
+	}
+}

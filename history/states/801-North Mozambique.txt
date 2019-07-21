@@ -1,0 +1,23 @@
+state={
+	id=801
+	name="STATE_801" #Zambezia 
+	manpower = 2351671
+	
+	state_category = rural
+	
+	history={
+		owner = TZN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			2123 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = MZB
+	}
+
+	provinces={
+		2123 2159 2180 2202 2217 5164 10972 12971
+	}
+}

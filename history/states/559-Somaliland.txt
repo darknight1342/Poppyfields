@@ -1,0 +1,19 @@
+state = {
+	id=559
+	name="STATE_559"
+	manpower = 322981
+	
+	state_category = rural
+	
+	history={
+		owner = SOM
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+		add_core_of = SOM
+	}
+	provinces= {
+		1964 2020 2063 4909 11014 13218 13219
+	}
+}

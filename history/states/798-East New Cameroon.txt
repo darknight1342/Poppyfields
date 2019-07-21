@@ -1,0 +1,20 @@
+state={
+	id=798
+	name="STATE_798"
+	manpower = 451687
+
+
+	state_category = rural
+
+	history={
+		owner = CMR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = CMR
+	}
+
+	provinces={
+		1993 8078 11012 12830 13224 13225
+	}
+}

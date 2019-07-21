@@ -1,0 +1,25 @@
+state={
+	id=795
+	name="STATE_795"
+	manpower = 1397824
+	
+	state_category = city
+
+	history={
+		owner = ERM
+		victory_points = {
+			6923 5
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex =2
+			air_base = 2
+		}
+		add_core_of = ERM
+	}
+
+	provinces={
+		878 893 3937 6814 6923 6952 6982 9862 11813
+	}
+}
