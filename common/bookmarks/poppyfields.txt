@@ -1,0 +1,87 @@
+bookmarks = {
+	bookmark = {
+		name = "POPPYFIELDS_NAME"
+		desc = "POPPYFIELDS_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
+		
+		"FRA"={
+			history = FRA_POPPYFIELDSDESC
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"USA"={
+			history = USA_POPPYFIELDS_DESC
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"ENG"={
+			history = ENG_POPPYFIELDS_DESC
+			ideology = democratic
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"GER"={
+			history = GER_POPPYFIELDS_DESC
+			ideology = fascism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		"AUS"={
+			history = AUS_POPPYFIELDS_DESC
+			ideology = neutrality
+			ideas = {
+			}	
+			focuses = {
+			}		
+		}
+		"JAP"={
+			history = JAP_POPPYFIELDS_DESC
+			ideology = fascism
+			ideas = {
+			}	
+			focuses = {
+			}			
+		}
+		"RUS"={
+			history = RUS_POPPYFIELDS_DESC
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}	
+		}
+
+		"---"={
+			history = OTHER_POPPYFIELDS_DESC
+		}
+
+
+		# minors #
+		"LBV"={
+			minor = yes
+			history = LBV_POPPYFIELDS_DESC
+			ideology = neutrality
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}
